@@ -1,9 +1,7 @@
 package com.myblog.myblog11.entity;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import lombok.*;
 import org.hibernate.internal.build.AllowNonPortable;
 import org.springframework.boot.autoconfigure.web.WebProperties;
 
